@@ -1,0 +1,1 @@
+This folder contains the code for the ResNet-18 and ResNet-50 architectures. It has been trined and tested on a Diabetic Retinopathy dataset. The data loading scheme is highly typical, so I'd suggest using your own dataloading process.
